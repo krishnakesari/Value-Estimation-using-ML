@@ -4,6 +4,8 @@ In this repository I will show, how we can build a value estimation system using
 
 Libraries Used: Numpy, Pandas, Scikit-learn
 
+Data: 40000 House Prices and 18 Features (10 times or more data points than the number of features)
+
 Steps Involved:
 1. Feature Selection 
 2. Training Data
