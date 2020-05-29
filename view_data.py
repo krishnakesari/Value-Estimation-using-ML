@@ -15,4 +15,3 @@ with open("data.html", "w") as f:
 # Open the web page in our web browser
 full_filename = os.path.abspath("data.html")
 webbrowser.open("file://{}".format(full_filename)
-
