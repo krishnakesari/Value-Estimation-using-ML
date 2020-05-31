@@ -14,3 +14,17 @@ Steps Involved:
 5. Build Cost function to quantify the error in the model
 6. Use Optimization algorithm (like gradient descent) to find model parameters that minimize cost function 
 7. Gradient Boosting - Ensemble of decision trees to predict values (Building decision based on each other)
+
+Model Interpretation:
+
+Overfitting:
+If training set error very low
+Test set error very high
+
+Solution: Simpler Decision tress or Small Decision Trees
+
+Underfitting:
+Training set error very high
+Test set error very high
+
+Solution: Deeper Decision trees 
